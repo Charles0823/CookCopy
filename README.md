@@ -28,6 +28,7 @@
   <ul>
     <li>HTML / CSS</li>
     <li>JavaScript</li>
+    <li>Visual Studio Code</li>
   </ul>
  
   <h3>2-2 배포 URL</h3>
