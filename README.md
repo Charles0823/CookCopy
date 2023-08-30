@@ -1,4 +1,4 @@
-1. 목표와 기능
+<h1>1. 목표와 기능</h1>
 1-1 목표
 지역 청년들의 SW 교육 기회 확대 플랫폼
 청년의 주머니를 채울 수 있는 플랫폼
@@ -21,7 +21,11 @@ Web Framework
 Django 3.x (Python 3.8)
 서비스 배포 환경
 Amazon Lightsail
-
+<ol>
+ <li>
+  
+ </li>
+</ol>
 2-2 배포 URL
 https://www.studyin.co.kr/
 
