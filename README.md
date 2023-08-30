@@ -9,7 +9,7 @@
 </ul>
 
 <h3>1-2 기능<h3>
- <ul>
+<ul>
 <li>자사 콘텐츠와 연계가 가능한 플랫폼</li>
 <li>이력 관리가 가능한 플랫폼(Github Open API 활용)</li>
 <li>역량별 레벨 관리 시스템 제공(Github Open API 활용, 스터디 그룹 결과물)</li>
