@@ -34,7 +34,7 @@
   <h3>2-2 배포 URL</h3>
   <ul><li>https://charles0823.github.io/pet_Project</li></ul>
   
-  <h2>3. 프로젝트 구조와 개발 열정</h2>
+  <h2>3. 프로젝트 구조와 개발 일정</h2>
   
   <h3>3-1 프로젝트 구조</h3>
   
