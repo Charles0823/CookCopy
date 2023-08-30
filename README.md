@@ -26,8 +26,7 @@
   
   <h3>2-1 개발 환경</h3>
   <ul>
-    <li>HTML</li>
-    <li>CSS</li>
+    <li>HTML / CSS</li>
     <li>JavaScript</li>
   </ul>
  
