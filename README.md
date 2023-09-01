@@ -1,5 +1,5 @@
 <body>
-  <h1>ChatGPT를 이용한 반려동물 훈련 서비스</h1>
+  <h1>ChatGPT를 이용한 반려동물 정보 추천 서비스</h1>
   <!-- <ul>
     <li>해당 repo는 sample repo입니다. 실제 사용되고 있는 repo가 아닙니다.</li>
     <li>이미지는 약간의 블러처리를 하였습니다.</li>
