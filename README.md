@@ -37,6 +37,7 @@
   <h2>3. 프로젝트 구조와 개발 일정</h2>
   
   <h3>3-1 프로젝트 구조</h3>
+ <pre>
  ── pet project
 │   ├── css
 │   │   ├── common.css
@@ -49,6 +50,7 @@
 │   ├── nextpage.html
 │   └── readme.md
 └── vcs test
+   </pre>
   <h3>3-2 개발 일정(WBS)</h3>
   <ul>
     <li>오르미3기 개인 프로젝트 2023.08.29 ~ 2023.09.06 </li>
