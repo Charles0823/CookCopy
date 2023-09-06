@@ -37,7 +37,18 @@
   <h2>3. 프로젝트 구조와 개발 일정</h2>
   
   <h3>3-1 프로젝트 구조</h3>
-  
+ ── pet project
+│   ├── css
+│   │   ├── common.css
+│   │   ├── index.css
+│   │   └── nextpage.css
+│   ├── index.html
+│   ├── js
+│   │   ├── index.js
+│   │   └── nextpage.js
+│   ├── nextpage.html
+│   └── readme.md
+└── vcs test
   <h3>3-2 개발 일정(WBS)</h3>
   <ul>
     <li>오르미3기 개인 프로젝트 2023.08.29 ~ 2023.09.06 </li>
@@ -53,8 +64,8 @@
   
   <h2>5. UI</h2>
   <ul>
-    <li>아래 페이지별 상세 설명, 더 큰 이미지로 하나하나씩 설명 필요</li>
-    <li>아래 페이지별 상세 설명, 가능하면 움직이는 GIF로 실행되는 것을 보여주면 좋습니다.</li>
+    <img width="1423" alt="스크린샷 2023-09-07 오전 8 37 01" src="https://github.com/Charles0823/pet_Project/assets/142385973/3f93bdc0-8bd5-4290-98ee-cb50d9d0bd15">
+    <img width="1440" alt="스크린샷 2023-09-07 오전 8 39 45" src="https://github.com/Charles0823/pet_Project/assets/142385973/ef66a533-d084-4a92-b383-e5b4f6919945">
   </ul>
  
   
