@@ -1,6 +1,6 @@
 .chat{
-  width:300px;
-  margin-left: 30px;
+  width:490px;
+  margin: auto;
 }
 
 .chat-container{
@@ -12,8 +12,8 @@
   border: 2px solid #ddd;
 }
 .chat-screen {
-  width: 260px;
-  height:350px;
+  width: 500px;
+  height:450px;
   overflow-y: auto;
 }
 
@@ -21,13 +21,12 @@
   display: flex;
   justify-content: flex-start;
   gap:60px;
-  margin-left: 175px;
 }
 .sub-title{
   font-size:20px;
   margin-bottom: 8px;
 }
 .main-title {
-margin-left: 160px;
+margin-left: 200px;
 margin-bottom: 15px;
 }
