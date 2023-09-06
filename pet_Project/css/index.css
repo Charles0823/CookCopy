@@ -1,0 +1,58 @@
+ul{
+  list-style: none;
+}
+.login{
+  width:400px;
+  margin: auto;
+}
+.main-title,
+.main-desc{
+  text-align: center;
+}
+.main-form{
+  display: flex;
+  flex-direction: column;
+  gap:16px;
+}
+.flex-input{
+  display: flex;
+  align-items: center;
+}
+.flex-input label{
+  width: 80px;
+}
+.flex-input input{
+  flex-grow: 1;
+}
+.login-btn{
+  background-color: #63c1c7;
+  border: 0;
+  margin-top: 20px;
+  margin-left: 140px;
+  width: 120px;
+  border-radius: 3px;
+  height: 35px;
+  color:white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.field{
+  border: 0;
+}
+.field legend{
+  float: left;
+  width:80px;
+}
+.field-flex{
+  display: flex;
+}
+.field-flex p{
+  width:80px;
+  flex-shrink: 0;
+}
+.field ul{
+  display: flex;
+  gap:10px;
+  flex-wrap: wrap;
+}

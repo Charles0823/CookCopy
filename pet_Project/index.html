@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>정보 입력</title>
+  <link rel="stylesheet" href="./css/common.css">
+  <link rel="stylesheet" href="./css/index.css">
+</head>
+<body>
+  <header class="layout-header">
+    <h1>
+      <a href="./index.html">Pet R.C Info</a>
+    </h1>
+
+  </header>
+    <main class="login">
+      
+      <h2 class="main-title">정보작성</h2>
+      <p class="main-desc">원활한 서비스 이용을 위해 정보를 작성 해주세요</p>
+
+      <form class="main-form" method="get" name="pet-info" action="nextpage.html">
+
+        <div  class="flex-input">
+          <label for="Area">지역</label>
+          <input type="text" name="Area" id="Area" placeholder="ex.서울"/>
+        </div>
+        <div class="flex-input">
+          <label for="type">종류</label>
+          <input type="text" name="type" id="type" placeholder="ex.강아지" required/>
+        </div>
+        <div class="flex-input">
+          <label for="Speies">종</label>
+          <input type="text" name="Speies" id="Speies" placeholder="ex.도베르만" required/>
+        </div>
+
+      <div class="field">
+          <legend>성별</legend>
+              <input type="radio" name="gender" value="male" id="male">
+              <label for="male">수컷</label>
+              <input type="radio" name="gender" value="female" id="female">
+              <label for="female">암컷</label>
+      </div>
+      <button class="login-btn" type="submit">검색하기</button>
+    </form>
+  </main>
+  
+    <footer class="layout-footer">
+      Pet Recommendation Info
+    </footer>
+    <script src="./js/index.js"></script>
+</body>
+</html>
