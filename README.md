@@ -31,17 +31,17 @@
   <h3>3-1 프로젝트 구조</h3>
  <pre>
  ── pet project
-│   ├── css
-│   │   ├── common.css
-│   │   ├── index.css
-│   │   └── nextpage.css
-│   ├── index.html
-│   ├── js
-│   │   ├── index.js
-│   │   └── nextpage.js
-│   ├── nextpage.html
-│   └── readme.md
-└── vcs test
+    ├── css
+    │   ├── common.css
+    │   ├── index.css
+    │   └── nextpage.css
+    ├── js
+    │   ├── index.js
+    │   └── nextpage.js
+    ├── nextpage.html 
+    ├── index.html
+    └── readme.md
+
    </pre>
   <h3>3-2 개발 일정(WBS)</h3>
   <ul>
