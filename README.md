@@ -18,8 +18,8 @@
   
   <h3>2-1 개발 환경</h3>
   <ul>
-    <li>HTML / CSS</li>
-    <li>JavaScript</li>
+    <li>HTML.html / CSS.css</li>
+    <li>JavaScript.js</li>
     <li>Visual Studio Code</li>
   </ul>
  
